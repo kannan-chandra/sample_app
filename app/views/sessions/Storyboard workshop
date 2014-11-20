@@ -1,0 +1,24 @@
+clickable storyboard Part 1
+- window
+- labels, images, buttons, switches, date picker
+- textview : keyboard type, secure entry
+- segues to views when buttons clicked
+
+clickable storyboard Part 2
+- table view: 1 row, open another view when clicked
+- table view: static cells, add image and labels
+
+clickable storyboard Part 3
+- navigation controller + root view segue
+- tabbar
+	- system item vs custom
+
+clickable storyboard Part 4 (Swift)
+- variables
+- add numbers
+- add strings
+- properties
+- simple functions
+
+dynamic app
+- uber fare calculator
